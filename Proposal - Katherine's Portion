@@ -10,4 +10,4 @@
 | NCHLT5       | Number of own children under 5 in household |
 | ELDCH        | Age of eldest own child in the household    |
 | YNGCH        | Age of youngest own child in the household  |
-| HHINCOME     | Total household income                      |
+| Year         | Year the data was collected                 |
