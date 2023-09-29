@@ -1,0 +1,13 @@
+| **Variable** | **Definition**                              |
+|--------------|---------------------------------------------|
+| FAMINC       | Family income of householder                |
+| FAMSIZE      | Number of own family members in household   |
+| NFAMS        | Number of families in household             |
+| NCOUPLES     | Number of couples in household              |
+| NMOTHERS     | Number of mothers in household              |
+| NFATHERS     | Number of fathers in household              |
+| NCHILD       | Number of own children in household         |
+| NCHLT5       | Number of own children under 5 in household |
+| ELDCH        | Age of eldest own child in the household    |
+| YNGCH        | Age of youngest own child in the household  |
+| HHINCOME     | Total household income                      |
